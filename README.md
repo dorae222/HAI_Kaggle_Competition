@@ -1,5 +1,4 @@
 # HAI_Kaggle_Competition
-*updated at 2023.08.14*
 
 ## Link
 - [캐글 링크](https://www.kaggle.com/competitions/hai2023summer)
@@ -15,5 +14,9 @@
 
 <div style="text-align: center;">
     <img src="./img/result_08_14.png" width="500"/><br>
-    (2023.08.14)
+    (Updated at 2023.08.14)
 </div>
+
+  - 현재 검증셋 기준 99%까지 향상되었지만, 테스트셋에서의 개선은 더 이상 일어나지 않음.
+  - 최종 약 97%의 정확도에서 실험 종료(Updated at 2023.08.18)
+  - [모델 가중치 모음](https://drive.google.com/drive/folders/1Q7O9fiFu1LqPBFTcQDkP4CVNmRhowRjF?usp=sharing)
